@@ -1,0 +1,12 @@
+{
+    "name": "mosadeghe/reservation",
+    "autoload": {
+        "psr-4": {
+            "Mosadeghe\\Reservation\\": "src/"
+        }
+    },
+    "require": {
+        "pecee/simple-router": "4.3.7.2",
+        "nesbot/carbon": "^2.52"
+    }
+}
